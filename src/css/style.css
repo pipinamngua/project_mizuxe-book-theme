@@ -1,0 +1,42 @@
+.navbar {
+  box-shadow: 2px 2px 5px #2192a6;
+  opacity: 0.9;
+  background: #fff; }
+  .navbar .nav-item {
+    font-size: 17px;
+    padding-right: 20px; }
+
+#showCase {
+  position: relative;
+  background: url("../img/mountain.jpg");
+  min-height: 600px; }
+  #showCase .primary-overlay {
+    background: rgba(50, 146, 166, 0.6);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0; }
+
+#letter .btn-primary {
+  background: #2192a6; }
+
+#boxes .box-el {
+  border: 1px solid #2192a6; }
+
+#boxes .box-el-1 {
+  background: #2192a6;
+  color: #fff; }
+
+#author {
+  text-align: center; }
+  #author .author-img {
+    margin-top: -50px; }
+  #author .item-hover:hover {
+    background: #2192a6;
+    color: #fff; }
+    #author .item-hover:hover p {
+      color: #fff !important; }
+
+#footer {
+  background: #2192a6; }
